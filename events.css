@@ -1,0 +1,28 @@
+.add-color {
+  color: #4374CB;
+}
+
+.make-large {
+  font-size: 100px;
+}
+
+.add-border {
+  border: 10px solid black;
+}
+
+.add-rounding {
+  border-radius: 20px;
+}
+
+.bold {
+  font-weight: 900;
+}
+
+.italics {
+  font-style: italic;
+  font-weight: 900;
+}
+
+.block {
+  display: block;
+}
